@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm 如何当一个学生 👋</h1>
-<h3 align="center">测试开发工程师 · 自动化测试 · AI 赋能质量保障</h3>
+<h1 align="center">Hi, I'm Accc 👋</h1>
+<h3 align="center">测试工程师 · 自动化测试 · AI 赋能质量保障</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -18,7 +18,7 @@
 - 🧪 专注于 **测试开发** 与 **质量保障自动化**，擅长用 Python 构建高效的测试工具链
 - 🤖 热衷探索 **AI + 测试** 的结合点，沉淀了一套面向 AI 辅助测试的 Claude Code 技能体系
 - 📐 相信好的测试不是「测出来的」，而是「设计出来的」
-- ✍️ ID 叫「如何当一个学生」——提醒自己保持空杯心态，持续学习
+
 
 ---
 
