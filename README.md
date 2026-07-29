@@ -42,6 +42,9 @@
 **📝 [Code Notes Skill](https://github.com/ruhedanghaoyigexuesheng/claude-code-notes-skill)**
 > Claude Code 技能——把代码目录自动整理成结构化学习笔记，支持一键导出到桌面。
 
+**🤖 [Autotest Skills](https://github.com/ruhedanghaoyigexuesheng/autotest-skills)**
+> 7 个 AI 驱动的自动化测试 Skill 合集：PRD→用例、JMeter 脚本、Appium 移动端、Playwright E2E、性能报告、XMind 思维导图、QA 需求分析，覆盖测试全生命周期。
+
 ---
 
 ### 📫 联系我
