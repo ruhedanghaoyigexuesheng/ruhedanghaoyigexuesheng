@@ -1,53 +1,56 @@
-# Hi there 👋
+<h1 align="center">Hi, I'm 如何当一个学生 👋</h1>
+<h3 align="center">测试开发工程师 · 自动化测试 · AI 赋能质量保障</h3>
 
-**`ruhedanghaoyigexuesheng`** / 测试工程师 · Python 自动化
-
-```python
-class TestEngineer:
-    def __init__(self):
-        self.role = "QA"
-        self.language = "Python"
-        self.daily = ["写用例", "提Bug", "自动化"]
-
-    def work(self):
-        while True:
-            self.write_tests()
-            self.find_bugs()
-            self.automate()
-
-    def motto(self):
-        return "质量是设计出来的，不是测出来的"
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_+_测试-7B68EE?style=for-the-badge&logo=anthropic&logoColor=white">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🙋‍♂️ 关于我
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-FF6B35?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-2679A4?style=flat&logo=data&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- 🧪 专注于 **测试开发** 与 **质量保障自动化**，擅长用 Python 构建高效的测试工具链
+- 🤖 热衷探索 **AI + 测试** 的结合点，沉淀了一套面向 AI 辅助测试的 Claude Code 技能体系
+- 📐 相信好的测试不是「测出来的」，而是「设计出来的」
+- ✍️ ID 叫「如何当一个学生」——提醒自己保持空杯心态，持续学习
 
 ---
 
-## 📊 GitHub Stats
+### 🧰 技能领域
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhedanghaoyigexuesheng&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhedanghaoyigexuesheng&layout=compact&theme=default&hide_border=true)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [claude-code-notes-skill](https://github.com/ruhedanghaoyigexuesheng/claude-code-notes-skill) | Claude Code Skill - 把代码目录自动整理成学习笔记 |
+| 方向 | 常用工具 |
+|------|----------|
+| **自动化测试** | Pytest · Selenium · Requests · Allure |
+| **接口测试** | Postman · Charles |
+| **数据库** | MySQL · Redis |
+| **CI / 工程化** | Git · Docker · Jenkins |
+| **AI + 测试** | Claude Code Skills · Prompt Engineering |
 
 ---
 
-> 📫 How to reach me: 1658742929@qq.com
+### 📌 精选项目
+
+**🧪 [Claude Skills 作品集](https://github.com/ruhedanghaoyigexuesheng/claude-skills-portfolio)**
+> 6 个 Claude Code 技能构成的 AI 辅助测试工作流体系——Bug 分析、日志排查、SQL 分析、回归测试、Prompt 测试，含统一工具箱与联动模式。
+
+**📝 [Code Notes Skill](https://github.com/ruhedanghaoyigexuesheng/claude-code-notes-skill)**
+> Claude Code 技能——把代码目录自动整理成结构化学习笔记，支持一键导出到桌面。
+
+---
+
+### 📫 联系我
+
+- 📧 Email：`1658742929@qq.com`
+- 💬 欢迎交流自动化测试、AI 提效相关话题
+
+---
+
+<p align="center">
+  <i>"Stay hungry, stay foolish."</i>
+</p>
