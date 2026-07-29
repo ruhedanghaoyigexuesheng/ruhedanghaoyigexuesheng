@@ -15,8 +15,8 @@
 
 ### 🙋‍♂️ 关于我
 
-- 🧪 专注于 **测试开发** 与 **质量保障自动化**，擅长用 Python 构建高效的测试工具链
-- 🤖 热衷探索 **AI + 测试** 的结合点，沉淀了一套面向 AI 辅助测试的 Claude Code 技能体系
+- 🧪 专注于 **测试** 与 **质量保障自动化**，擅长用 Python 构建高效的测试工具链
+- 🤖 热衷探索 **AI + 测试** 的结合点，沉淀Claude Code 技能体系
 - 📐 相信好的测试不是「测出来的」，而是「设计出来的」
 
 
@@ -27,7 +27,7 @@
 | 方向 | 常用工具 |
 |------|----------|
 | **自动化测试** | Pytest · Selenium · Requests · Allure |
-| **接口测试** | Postman · Charles |
+| **接口测试** | Postman · Jmeter |
 | **数据库** | MySQL · Redis |
 | **CI / 工程化** | Git · Docker · Jenkins |
 | **AI + 测试** | Claude Code Skills · Prompt Engineering |
