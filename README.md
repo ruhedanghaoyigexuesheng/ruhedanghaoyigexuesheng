@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Accc
 
-**测试开发工程师 · 专注 AI 测试 / 大模型测试 · 自动化测试**
+**测试工程师 · 大模型测试 · 自动化测试**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
