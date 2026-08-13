@@ -1,5 +1,5 @@
 <h1 align="center">I'm Accc 👋</h1>
-<h3 align="center">测试工程师 · 自动化测试 · AI 赋能质量保障</h3>
+<h3 align="center">测试工程师 · 自动化测试</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -25,7 +25,6 @@
 ### 📫 联系我
 
 - 📧 Email：`1658742929@qq.com`
-- 💬 欢迎交流自动化测试、AI 提效相关话题
 
 ---
 
