@@ -49,13 +49,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<img src="https://github-readme-stats.vercel.app/api?username=ruhedanghaoyigexuesheng&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhedanghaoyigexuesheng&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
----
-
 ## 📫 联系我
 
 📧 Email：`1658742929@qq.com`
