@@ -1,20 +1,19 @@
 <div align="center">
 
+<img src="https://github.com/ruhedanghaoyigexuesheng.png" width="110" height="110" style="border-radius:50%" alt="avatar" />
+
 # 👋 Hi, I'm Accc
 
 **测试开发工程师 · 专注 AI 测试 / 大模型测试 · 自动化测试**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AI%20%2B%20%E6%B5%8B%E8%AF%95-7B68EE?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI + 测试">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AI%20%2B%20%E6%B5%8B%E8%AF%95-7B68EE?style=flat-square&logo=anthropic&logoColor=white" alt="AI + 测试">
 </p>
-
-`AI 测试` · `大模型测试` · `自动化测试` · `测试工具`
 
 </div>
 
@@ -22,7 +21,7 @@
 
 ## 🧭 关于我
 
-一位正在持续学习的测试同学！
+> 一位正在持续学习的测试同学！
 
 ---
 
@@ -50,9 +49,16 @@
 
 ---
 
+## 📊 GitHub 统计
+
+<img src="https://github-readme-stats.vercel.app/api?username=ruhedanghaoyigexuesheng&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhedanghaoyigexuesheng&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+---
+
 ## 📫 联系我
 
-- 📧 Email：`1658742929@qq.com`
+📧 Email：`1658742929@qq.com`
 
 ---
 
