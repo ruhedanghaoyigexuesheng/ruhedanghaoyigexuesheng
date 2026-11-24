@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://github.com/ruhedanghaoyigexuesheng.png" width="96" height="96" style="border-radius:50%" alt="Accc 的头像">
-
 **测试工程师 · 自动化测试 · AI 测试**
 
 <p>
