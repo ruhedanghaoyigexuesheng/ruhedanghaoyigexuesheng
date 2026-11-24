@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruhedanghaoyigexuesheng/ruhedanghaoyigexuesheng/main/assets/readme/hero.svg" width="100%" alt="Accc 的个人主页标题：测试工程师，把测试经验做成能直接用的工具与课程">
+</p>
+
 <div align="center">
 
-<img src="https://github.com/ruhedanghaoyigexuesheng.png" width="110" height="110" style="border-radius:50%" alt="avatar" />
+<img src="https://github.com/ruhedanghaoyigexuesheng.png" width="96" height="96" style="border-radius:50%" alt="Accc 的头像">
 
-# 👋 Hi, I'm Accc
-
-**测试工程师 · AI测试 · 自动化测试**
+**测试工程师 · 自动化测试 · AI 测试**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -19,33 +21,28 @@
 
 ---
 
-## 🧭 关于我
+## 🚀 个人项目
 
-> 一位正在持续学习的测试同学！
-
----
-
-## 🚀 我的项目
-
-| 项目 | 说明 | 技术栈 |
-|------|------|--------|
-| [⚡ FileForge](https://github.com/ruhedanghaoyigexuesheng/FileForge) | 桌面端测试文件生成工具，一键生成任意大小 / 格式文件 | Electron · React · TS |
-| [🎓 llm-testing-course](https://github.com/ruhedanghaoyigexuesheng/llm-testing-course) | 大模型测试 / AI 测试方向全套课程（60+ 课时静态站点） | HTML · CSS · JS |
-| [🧪 claude-skills-portfolio](https://github.com/ruhedanghaoyigexuesheng/claude-skills-portfolio) | AI 辅助软件测试 Skills：Bug 分析 / 日志 / SQL / 回归 / Prompt | Claude Skills |
-| [🤖 autotest-skills](https://github.com/ruhedanghaoyigexuesheng/autotest-skills) | 自动化测试 Skill 合集，覆盖需求分析 → 报告输出全流程 | Python · Skills |
-| [📝 claude-code-notes-skill](https://github.com/ruhedanghaoyigexuesheng/claude-code-notes-skill) | 把代码目录自动整理成学习笔记的 Claude Code 命令 | Claude Code |
+| 项目 | 简介 |
+|:-----|:-----|
+| **📚 [TestDev_Notes](https://github.com/ruhedanghaoyigexuesheng/TestDev_Notes)**<br>`HTML` · `Python`<br>[在线阅读 ↗](https://ruhedanghaoyigexuesheng.github.io/TestDev_Notes/) | 32 篇测试开发笔记，从一个命令到 AI 测试，可直接在浏览器里学 |
+| **🤖 [autotest-skills](https://github.com/ruhedanghaoyigexuesheng/autotest-skills)**<br>`Python` · `Skills` | 7 个自动化测试 Skill，串起需求 → 用例 → 脚本 → 报告全流程 |
+| **🎓 [llm-testing-course](https://github.com/ruhedanghaoyigexuesheng/llm-testing-course)**<br>`HTML` · `CSS` · `JS` | 大模型测试课程站点，覆盖功能 / 性能 / 安全、评测体系与 Agent / MCP 专项 |
+| **🧪 [claude-skills-portfolio](https://github.com/ruhedanghaoyigexuesheng/claude-skills-portfolio)**<br>`Claude Skills` | AI 辅助测试工作流：Bug 分析、日志排查、SQL、回归、Prompt 测试 |
+| **⚡ [FileForge](https://github.com/ruhedanghaoyigexuesheng/FileForge)**<br>`Electron` · `React` · `TS` | 桌面端测试文件生成工具，一键生成指定大小 / 格式的测试文件 |
+| **📝 [claude-code-notes-skill](https://github.com/ruhedanghaoyigexuesheng/claude-code-notes-skill)**<br>`Claude Code` | 给一个代码目录，自动生成先讲原理、再看代码的学习笔记 |
 
 ---
 
 ## 🧰 技能领域
 
-| 方向 | 常用工具 / 技术 |
-|------|-----------------|
-| **自动化测试** | Pytest · Selenium · Appium · Playwright |
-| **接口测试** | Postman · JMeter · Requests |
-| **数据库** | MySQL · Redis |
-| **CI / 工程化** | Git · Docker · Jenkins · GitHub Actions |
-| **AI + 测试** | Claude Code Skills · Prompt Engineering · 大模型评测 |
+| 方向 | 工具 / 技术 |
+|:-----|:------------|
+| 🧪 **自动化测试** | `Pytest` · `Selenium` · `Appium` · `Playwright` |
+| 🔌 **接口测试** | `Postman` · `JMeter` · `Requests` |
+| 🗄️ **数据库** | `MySQL` · `Redis` |
+| ⚙️ **CI / 工程化** | `Git` · `Docker` · `Jenkins` · `GitHub Actions` |
+| 🤖 **AI + 测试** | `Claude Code Skills` · `Prompt Engineering` · `大模型评测` |
 
 ---
 
